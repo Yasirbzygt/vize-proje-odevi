@@ -1,0 +1,10 @@
+---------------
+GENEL ÜYELER 
+---------------
+1.  kullanıcı :a    b    c
+2.  kullanıcı :e    f    e
+---------------
+ELİT ÜYELER 
+---------------
+1. kullanıcı :    ntfd    
+2. kullanıcı :ns        fdnh
